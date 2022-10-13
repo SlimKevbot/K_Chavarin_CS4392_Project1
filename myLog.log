@@ -1,0 +1,13 @@
+2022-10-12 19:53:21,099[INFO    ] Command Line Arguments - IP:35.225.142.244 port:3389 Log Location:myLog
+
+2022-10-12 19:53:21,099[INFO    ] Connecting to server: 35.225.142.244 at port:3389
+
+2022-10-12 19:53:24,973[INFO    ] Sending: network
+
+2022-10-12 19:53:24,976[INFO    ] Waiting for server response. . .
+
+2022-10-12 19:53:25,022[INFO    ] Server replied with: Hello there ('50.27.29.190', 64994). Here is another random quote of wisdom for you:"Python tricks" is a tough one, cuz the language is so clean. E.g., C makes an art of confusing pointers with arrays and strings, which leads to lotsa neat pointer tricks; APL mistakes everything for an array, leading to neat one-liners; and Perl confuses everything period, making each line a joyous adventure <wink>., Tim Peters, 16 Sep 1993
+
+
+2022-10-12 19:53:25,022[INFO    ] Closing socket connection.
+
